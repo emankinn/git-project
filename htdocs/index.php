@@ -11,5 +11,6 @@
     echo "string";
     echo "new branch";
     echo "master";
+    echo "some_new_string";
 >>>>>>> master
  ?>
